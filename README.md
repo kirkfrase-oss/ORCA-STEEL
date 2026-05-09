@@ -24,3 +24,4 @@ The design medium is **HTML/CSS/JS** — these are prototypes, not production co
 - `chats/` — conversation transcripts (read these!)
 - `project/` — the `orca steel 3` project files (HTML prototypes, assets, components)
 # ORCA-STEEL
+# ORCA-KITS
